@@ -1,6 +1,8 @@
 # Google Network
 
-A Modified Titanium Network to be material design and go under the radar from your teachers.
+A website for bypassing censorship!
+
+New Release Date: TBD
 
 Initial Release Date: 08/17/2019.
 #### Basic info
@@ -11,19 +13,16 @@ This web-app, measuring about 20 MB, is designed to be as light on server storag
 
 #### Locally Stored and Hosted Proxy Server
 
-This allows your PhoenixHub site to have a proxy already equipped when you deploy it so you can quickly get to circumventing censorship!
+This is a locally hosted proxy hosted on your website!
 
 #### Games
 
-This site has links to many games on a CDN for quick and efficient access.
+This site has links to many games for quick and efficient access.
 
 #### Chatboxes
 
-Chatboxes for TitaniumNetwork's Services. Replace if needed.
+Chatboxes for System Ya's Services. Replace if needed.
 
 #### Suggest Some Stuff!
  
 Create an Issue if you have problems with the site and a staff member will address your concerns.
-
-#
-Property of TitaniumNetwork. You have permission to modify, however we require that you leave it open-source AND to credit us since many components of TitaniumPhoenix are open-source.
