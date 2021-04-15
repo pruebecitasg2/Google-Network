@@ -7,6 +7,8 @@ A website for bypassing censorship!
 New Release Date: TBD
 
 Initial Release Date: 08/17/2019.
+
+Old Site: https://googlenetwork.herokuapp.com
 #### Basic info
 
 This web-app, measuring about 20 MB, is designed to be as light on server storage as possible.
