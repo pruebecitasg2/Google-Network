@@ -1,5 +1,7 @@
 # Google Network
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pers0n-dev/Google-Network/tree/master)
+
 A website for bypassing censorship!
 
 New Release Date: TBD
