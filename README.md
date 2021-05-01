@@ -1,6 +1,7 @@
 # Google Network
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pers0n-dev/Google-Network/tree/master)
+[![Run on Repl.it](https://repl.it/badge/github/Pers0n-dev/Google-Network)](https://repl.it/github/Pers0n-dev/Google-Network)
 
 A website for bypassing censorship!
 
